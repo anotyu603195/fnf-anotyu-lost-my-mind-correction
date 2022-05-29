@@ -1,0 +1,40 @@
+{
+	"songs": [
+		[
+			"bitter-reunion",
+			"tails",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"reason-to-hide",
+			"tails",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "thinking",
+	"weekName": "thinking",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

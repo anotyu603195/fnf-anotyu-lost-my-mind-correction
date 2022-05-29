@@ -1,0 +1,32 @@
+{
+	"storyName": "get out of my head!",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "bruh",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "lostotime",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"himura",
+		""
+	],
+	"songs": [
+		[
+			"lost-my-mind",
+			"icon-sonic",
+			[
+				0,
+				0,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "get out of my head!",
+	"hiddenUntilUnlocked": false
+}
